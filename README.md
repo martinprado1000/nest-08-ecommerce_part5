@@ -33,7 +33,7 @@ npm i -g @nest/cli
 4. Renombrar el archivo __.env.template__ por __.env__ y llenar las variables de entorno e instalar las dependencias:
 ```bash
 #Instalar dependencias
-git install
+npm install
 ```
 
 3. Levantar la base de datos
