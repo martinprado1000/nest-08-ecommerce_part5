@@ -111,6 +111,8 @@ jwt - passport - @decoradores - @guards - rutas protegidas - renobacion de token
 
 OpenApi-Documentación Swagger: endpoints, entities, dto.
 
+http://localhost:3000/api#
+
 
 
 

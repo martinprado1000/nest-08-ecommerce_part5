@@ -10,6 +10,6 @@ export const envLoader = () => ({
         },
         pagination: {
             defaultLimit: +process.env.PAGINATIOS_DEFAULT_LIMIT || 7 
-            // Si quiero puedo poner un valor por defecto aca pero va atener mas fuerza el que configure en el Joi. Obviamente si el valor no viene defenido en la variable de entorno.
+            // Si quiero puedo poner un valor por defecto aca pero va a tener mas fuerza el que configure en el Joi. Obviamente si el valor no viene defenido en la variable de entorno.
         }
 })
